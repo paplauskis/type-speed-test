@@ -16,6 +16,6 @@ module.exports = {
       'warn',
       { allowConstantExport: true }
     ],
-    'no-alert': "warn"
+    'no-alert': 'off'
   }
 }
